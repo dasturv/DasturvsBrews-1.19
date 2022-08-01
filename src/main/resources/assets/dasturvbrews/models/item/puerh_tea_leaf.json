@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dasturvbrews:item/puerh_tea_leaf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "dasturvbrews:oolong_tea_leaf"
+    }
+  },
+  "result": {
+    "item": "dasturvbrews:oolong_tea_leaf_mat"
+  }
+}

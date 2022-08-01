@@ -1,5 +1,6 @@
 package net.dasturv.dasturvbrews;
 
+import net.dasturv.dasturvbrews.block.ModBlocks;
 import net.dasturv.dasturvbrews.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -13,5 +14,6 @@ public class DasturvBrews implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

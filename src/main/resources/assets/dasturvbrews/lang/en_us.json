@@ -1,6 +1,17 @@
 {
   "item.dasturvbrews.emerald_shard": "Emerald Shard",
   "item.dasturvbrews.diamond_shard": "Diamond Shard",
+  "item.dasturvbrews.green_tea_leaf": "Fresh Tea Leaf",
+  "item.dasturvbrews.white_tea_leaf": "Wilted Tea Leaf",
+  "item.dasturvbrews.oolong_tea_leaf": "Oxidized Tea Leaf",
+  "item.dasturvbrews.black_tea_leaf": "Heavily Oxidized Tea Leaf",
+  "item.dasturvbrews.puerh_tea_leaf": "Fermented Tea Leaf",
+
+  "block.dasturvbrews.green_tea_leaf_mat": "Fresh Tea Leaf Mat",
+  "block.dasturvbrews.white_tea_leaf_mat": "Wilted Tea Leaf Mat",
+  "block.dasturvbrews.oolong_tea_leaf_mat": "Oxidized Tea Leaf Mat",
+  "block.dasturvbrews.black_tea_leaf_mat": "Heavily Oxidized Tea Leaf Mat",
+  "block.dasturvbrews.puerh_tea_leaf_mat": "Fermented Tea Leaf Mat",
 
   "itemGroup.dasturvbrews.dasturv_brews": "dasturv's Brews"
 }

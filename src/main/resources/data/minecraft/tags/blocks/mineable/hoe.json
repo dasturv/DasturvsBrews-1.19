@@ -1,0 +1,10 @@
+{
+  "replace": "false",
+  "values": [
+    "dasturvbrews:green_tea_leaf_mat",
+    "dasturvbrews:white_tea_leaf_mat",
+    "dasturvbrews:oolong_tea_leaf_mat",
+    "dasturvbrews:black_tea_leaf_mat",
+    "dasturvbrews:puerh_tea_leaf_mat"
+  ]
+}
