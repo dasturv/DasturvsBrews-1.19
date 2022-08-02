@@ -13,5 +13,11 @@
   "block.dasturvbrews.black_tea_leaf_mat": "Heavily Oxidized Tea Leaf Mat",
   "block.dasturvbrews.puerh_tea_leaf_mat": "Fermented Tea Leaf Mat",
 
+  "effect.dasturvbrews.relaxation": "Relaxation",
+  "effect.dasturvbrews.energized": "Energized",
+
+  "attribute.dasturvbrews.mining_speed": "Mining Speed",
+  "attribute.dasturvbrews.health_regeneration_rate": "Regeneration Rate",
+
   "itemGroup.dasturvbrews.dasturv_brews": "dasturv's Brews"
 }

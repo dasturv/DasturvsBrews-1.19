@@ -4,9 +4,12 @@
   "package": "net.dasturv.dasturvbrews.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "PlayerEntityMixin",
+    "HungerManagerMixin",
+    "LivingEntityMixin"
   ],
   "client": [
-    "ExampleMixin"
+
   ],
   "injectors": {
     "defaultRequire": 1
