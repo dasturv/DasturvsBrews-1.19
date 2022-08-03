@@ -13,5 +13,6 @@ public class DasturvBrewsClient implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.OOLONG_TEA_LEAF_MAT, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.BLACK_TEA_LEAF_MAT, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.PUERH_TEA_LEAF_MAT, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.TEA_BUSH_BLOCK, RenderLayer.getCutout());
     }
 }
