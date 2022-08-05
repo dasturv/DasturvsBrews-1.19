@@ -2,8 +2,10 @@ package net.dasturv.dasturvbrews;
 
 import net.dasturv.dasturvbrews.attribute.ModAttributes;
 import net.dasturv.dasturvbrews.block.ModBlocks;
+import net.dasturv.dasturvbrews.block.entity.ModBlockEntities;
 import net.dasturv.dasturvbrews.effect.ModEffects;
 import net.dasturv.dasturvbrews.item.ModItems;
+import net.dasturv.dasturvbrews.recipe.ModRecipes;
 import net.dasturv.dasturvbrews.world.feature.ModConfiguredFeatures;
 import net.dasturv.dasturvbrews.world.gen.ModVegetationGeneration;
 import net.fabricmc.api.ModInitializer;
@@ -17,13 +19,18 @@ public class DasturvBrews implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		ModConfiguredFeatures.registerConfiguredFeatures();
+		//ModConfiguredFeatures.registerConfiguredFeatures();
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 		ModEffects.registerModEffects();
 		ModAttributes.registerModAttributes();
 
+		ModConfiguredFeatures.registerConfiguredFeatures();
+
 		ModVegetationGeneration.generateVegetation();
+
+		ModBlockEntities.registerAllBlockEntities();
+		ModRecipes.registeRecipes();
 	}
 }

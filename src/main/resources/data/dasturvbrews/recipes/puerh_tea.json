@@ -1,0 +1,11 @@
+{
+  "type": "dasturvbrews:kettle",
+  "ingredients": [
+    {
+      "item": "dasturvbrews:puerh_tea_leaf"
+    }
+  ],
+  "output": {
+    "item": "dasturvbrews:puerh_tea"
+  }
+}

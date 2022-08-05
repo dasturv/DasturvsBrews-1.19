@@ -1,0 +1,11 @@
+{
+  "type": "dasturvbrews:kettle",
+  "ingredients": [
+    {
+      "item": "dasturvbrews:green_tea_leaf"
+    }
+  ],
+  "output": {
+    "item": "dasturvbrews:green_tea"
+  }
+}

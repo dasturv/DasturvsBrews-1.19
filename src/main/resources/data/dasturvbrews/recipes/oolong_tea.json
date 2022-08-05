@@ -1,0 +1,11 @@
+{
+  "type": "dasturvbrews:kettle",
+  "ingredients": [
+    {
+      "item": "dasturvbrews:oolong_tea_leaf"
+    }
+  ],
+  "output": {
+    "item": "dasturvbrews:oolong_tea"
+  }
+}

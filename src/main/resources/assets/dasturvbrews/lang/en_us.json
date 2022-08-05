@@ -6,6 +6,14 @@
   "item.dasturvbrews.oolong_tea_leaf": "Oxidized Tea Leaf",
   "item.dasturvbrews.black_tea_leaf": "Heavily Oxidized Tea Leaf",
   "item.dasturvbrews.puerh_tea_leaf": "Fermented Tea Leaf",
+  "item.dasturvbrews.tea_cup": "Tea Cup",
+  "item.dasturvbrews.green_tea": "Green Tea",
+  "item.dasturvbrews.white_tea": "White Tea",
+  "item.dasturvbrews.oolong_tea": "Oolong Tea",
+  "item.dasturvbrews.black_tea": "Black Tea",
+  "item.dasturvbrews.puerh_tea": "Pu-erh Tea",
+  "item.dasturvbrews.unfired_tea_cup": "Unfired Tea Cup",
+  "item.dasturvbrews.unfired_kettle": "Unfired Kettle",
 
   "block.dasturvbrews.green_tea_leaf_mat": "Fresh Tea Leaf Mat",
   "block.dasturvbrews.white_tea_leaf_mat": "Wilted Tea Leaf Mat",
@@ -13,6 +21,7 @@
   "block.dasturvbrews.black_tea_leaf_mat": "Heavily Oxidized Tea Leaf Mat",
   "block.dasturvbrews.puerh_tea_leaf_mat": "Fermented Tea Leaf Mat",
   "block.dasturvbrews.tea_bush": "Tea Sapling",
+  "block.dasturvbrews.ceramic_kettle": "Ceramic Kettle",
 
   "effect.dasturvbrews.relaxation": "Relaxation",
   "effect.dasturvbrews.energized": "Energized",
